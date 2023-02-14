@@ -5,7 +5,7 @@ import java.util.*;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class TaskManager {
+public class TaskManagerV2 {
     public static void main(String[] args) throws Exception {
         try (//Scanner
         Scanner scan = new Scanner(System.in)) {
